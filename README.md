@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**lcalfayan/lcalfayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on statistical assessment in a scientific laboratory
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lcalfayan@unsam.edu.ar
 
 - ⚡ Fun fact: ...
--->
+
